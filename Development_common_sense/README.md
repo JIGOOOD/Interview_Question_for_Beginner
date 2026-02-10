@@ -116,8 +116,8 @@ OOP 로 코드를 작성하면 이미 작성한 코드에 대한 재사용성이
 * Stateless: 서버는 이전 요청을 기억하지 않음
 * Caching: 응답을 캐시에 저장 가능 -> 성능 향상
 * Client-Server: 클라이언트와 서버 역할 분리
-* Hierarchical system
-* Code on demand  
+* Hierarchical system: 서버 구조가 여러 계층으로 나뉘어 있어도 클라이언트는 그걸 알 필요가 없어야 
+* Code on demand: 서버가 필요할 경우 클라이언트에게 코드를 내려줄 수 있음
   _cf) 보다 자세한 내용에 대해서는 Reference 를 참고해주세요._
 
 ### RESTful 하게 API 를 디자인 한다는 것은 무엇을 의미하는가.(요약)
